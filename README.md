@@ -1,5 +1,3 @@
-Here’s a sample README file for your GitHub project. You can copy and modify it based on your specific needs:
-
 ```markdown
 # Active Directory Certificate Services (ADCS) Enumeration and Exploitation
 
@@ -148,5 +146,3 @@ python3 gettgtpkinit.py -cert-pfx pfx_file domain/username ccache_file -dc-ip ip
 - [Certipy](https://github.com/ly4k/Certipy)
 - [Certify](https://github.com/GhostPack/Certify)
 ```
-
-This README file covers all the content you provided. You can simply paste it into a `README.md` file on your GitHub project. Let me know if you need any further adjustments!
