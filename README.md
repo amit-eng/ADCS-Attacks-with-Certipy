@@ -1,3 +1,8 @@
+──(env)─(root㉿kali)-[/home/kali/new]
+└─# python3 -m venv env && source env/bin/activate  
+
+
+
 ```markdown
 # Active Directory Certificate Services (ADCS) Enumeration and Exploitation
 
